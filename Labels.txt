@@ -25,6 +25,7 @@ aircall
 airserver
 airtable
 airtame
+airtamepkg
 aldente
 alephone
 alfred
@@ -35,9 +36,11 @@ amazoncorretto17jdk
 amazoncorretto8jdk
 amazonworkspaces
 anaconda
+anastasiysextensionmanager
 androidfiletransfer
 androidstudio
 anydesk
+apachedirectorystudio
 apparency
 appcleaner
 applenyfonts
@@ -51,17 +54,18 @@ arcbrowser
 archimate
 archiwareb2go
 archiwarepst
+arduinoide
 arq7
 asana
 asperaconnect
 atext
 atextlegacy
 atlassiancompanion
-atom
 audacity
 authydesktop
 autodeskfusion360admininstall
 autodmg
+automounter
 autopkgr
 avertouch
 aviatrix
@@ -98,6 +102,7 @@ brosix
 bugdom
 burpsuitecommunityedition
 burpsuiteprofessional
+buttercup
 caffeine
 cakebrew
 calcservice
@@ -149,6 +154,7 @@ crashplan
 crashplansmb
 cricutdesignspace
 cryptomator
+crystalfetch
 cyberduck
 cytoscape
 daisydisk
@@ -157,6 +163,8 @@ darktable
 daylite
 dbeaverce
 debookee
+dedoose
+deepl
 defaultfolderx
 depnotify
 desktoppr
@@ -177,6 +185,7 @@ drift
 dropbox
 druvainsync
 duckduckgo
+duet
 duodevicehealth
 dymoconnectdesktop
 dynalist
@@ -192,10 +201,12 @@ escrowbuddy
 eshareosx
 espanso
 etrecheck
+evercast
 evernote
 everweb
 exelbanstats
 exifrenamer
+facebookmessenger
 fantastical
 fastscripts
 favro
@@ -203,6 +214,8 @@ fellow
 figma
 filemakerpro
 filezilla
+finaldraft11
+finaldraft12
 findanyfile
 firefox
 firefox_da
@@ -215,14 +228,19 @@ firefoxpkg
 firefoxpkg_intl
 flexoptixapp
 flowjo
+flstudiomac
 flux
 flycut
+fontbase
 fontexplorer
 fork
 franz
 front
 fsmonitor
 fujifilmwebcam
+garminexpress
+gather
+gathertown
 gdevelop
 geneiousprime
 gfxcardstatus
@@ -253,6 +271,7 @@ handbrake
 hazel
 hmavpn
 homebrew
+hoppscotch
 horos
 houdahspot
 hpeasyadmin
@@ -261,6 +280,7 @@ hubstaff
 huddly
 hype
 hyper
+i1profiler
 ibarcoder
 ibmnotifier
 icons
@@ -277,6 +297,7 @@ installomator_theile
 intellijideace
 ipswupdater
 ipvisionconnect
+iriunwebcam
 isadora
 island
 istatmenus
@@ -341,10 +362,13 @@ libericajdk17ltsfull
 libericajdk8ltsfull
 libreoffice
 libreofficelanguagepack_intl
+lifesize
+lightburn
 linear
 logioptions
 logitechoptions
 logitechoptionsplus
+logitune
 logseq
 loom
 lowprofile
@@ -391,7 +415,7 @@ microsoftofficebusinesspro
 microsoftofficefactoryreset
 microsoftofficeremoval
 microsoftonedrive
-microsoftonedrive-rollingout
+microsoftonedrive-deferred
 microsoftonedrive-rollingout
 microsoftonedrive-rollingoutdeferred
 microsoftonedrivereset
@@ -426,6 +450,7 @@ mmhmm-desktop
 mmhmm-studio
 mobikinassistantforandroid
 mobiletolocal
+mobirise
 mochakeyboard
 mochatelnet
 mochatn3270
@@ -438,9 +463,11 @@ montereyblocker
 morisawadesktopmanager
 mowgliiitsycal
 munki
+munkiadmin
 musescore
 muzzle
 mysqlworkbenchce
+namiral
 nanosaur
 nessusagent
 netiquette
@@ -459,6 +486,7 @@ nudgesuite
 nvivo
 nvivo13
 nvivo14
+nweasecuretestingbrowser
 obs
 obsbotwebcam
 obsidian
@@ -474,9 +502,11 @@ omnipresence
 onionshare
 onlyofficedesktop
 onscreencontrol
+onyx
 openvpnconnect
 openvpnconnectv3
 opera
+orcaslicer
 origin
 orion
 ottomatic
@@ -504,6 +534,7 @@ podmandesktop
 polylens
 popsql
 postman
+powermonitor
 prism10
 prism9
 pritunl
@@ -526,6 +557,7 @@ python
 qgis-pr
 qlab
 r
+raindropio
 rancherdesktop
 rapidapi
 raycast
@@ -598,8 +630,10 @@ sonos
 sonoss1
 sonoss2
 sourcetree
+spark
 splashtopbusiness
 splashtopsos
+splashtopstreamer
 spotify
 sqlpropostgres
 sqlprostudio
@@ -619,6 +653,7 @@ surfdrive
 suspiciouspackage
 swiftdialog
 swiftruntimeforcommandlinetools
+symhelper
 sync
 synologyactivebackupforbusinessagent
 synologyassistant
@@ -714,6 +749,7 @@ xmind
 xquartz
 yed
 yubicoauthenticator
+yubikeymanager
 yubikeymanagerqt
 zappy
 zeplin
@@ -735,4 +771,5 @@ zulujdk13
 zulujdk15
 zulujdk17
 zulujdk18
+zulujdk21
 zulujdk8

@@ -1,11 +1,14 @@
 arduinoide)
     name="Arduino IDE"
     type="dmg"
-    if [[ "$(arch)" == "arm64" ]]; then
-        downloadURL=$( curl -fsL "https://www.arduino.cc/en/software" | xmllint --html --format - 2>/dev/null | grep -m 1 -o "https://.*_macOS_arm64.dmg" )
-    else
-        downloadURL=$( curl -fsL "https://www.arduino.cc/en/software" | xmllint --html --format - 2>/dev/null | grep -m 1 -o "https://.*_macOS_64bit.dmg" )
+    if [[ $(arch) == "arm64" ]]; then
+        archiveName="arduino-ide_[0-9.]*_macOS_arm64.dmg"
+
+    elif [[ $(arch) == "i386" ]]; then
+        archiveName="arduino-ide_[0-9.]*_macOS_64bit.dmg"
     fi
-    appNewVersion=$( echo "${downloadURL}" | cut -d '_' -f 2 )
+    downloadURL="$(downloadURLFromGit arduino arduino-ide)"
+    appNewVersion="$(versionFromGit arduino arduino-ide)"
     expectedTeamID="7KT7ZWMCJT"
     ;;
+
