@@ -6,4 +6,3 @@ vlc)
     downloadURL="https://get.videolan.org/vlc/$appNewVersion/macosx/vlc-$appNewVersion-universal.dmg"
     expectedTeamID="75GAHG3SZQ"
     ;;
-    
