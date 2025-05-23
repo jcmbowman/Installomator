@@ -12,3 +12,5 @@ scratch/
 # do include Installomator .pkg files
 #!Installomator-*.pkg
 checkLabelCurrent.sh
+.vscode/settings.json
+.vscode/extensions.json
