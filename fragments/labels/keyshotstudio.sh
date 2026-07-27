@@ -2,7 +2,7 @@ keyshotstudio)
     name="KeyShot Studio"
     type="pkg"
     expectedTeamID="W7B24M74T3"
-    downloadURL="https://download.keyshot.com/keyshot2025/keyshot_studio_mac64_2025.3_14.2.2.1.pkg"
+    downloadURL="https://download.keyshot.com/keyshot2026/keyshot_studio_mac64_2026.2_15.1.1.5.pkg"
     appNewVersion=$( echo "$downloadURL" | cut -d '_' -f 5 | rev | cut -d '.' -f2- | rev )
     appCustomVersion() {
         customVersionFile="/Users/Shared/.KeyShotStudioInstalledVersion"
